@@ -3,7 +3,7 @@
                                                                Reg no: 212223040176
 ```
 
-# EX-2:Mean and variance of a discrete  distribution
+# EX-1:Mean and variance of a discrete  distribution
 
 
 # Aim : 
