@@ -1,6 +1,6 @@
 ```
-                                                               Name: Roshan G
-                                                               Reg no: 212223040176
+                                                      Name: Roshan G
+                                                      Reg no: 212223040176
 ```
 
 # EX-1:Mean and variance of a discrete  distribution
